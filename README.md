@@ -1,5 +1,7 @@
 
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/kyronsatt/kyronsatt/assets/97697928/2c964a53-346e-4bab-b7ff-67ca000100d4" />
+![startrubers](https://github.com/lucasmartinns/lucasmartinns/assets/127984644/0ba41c44-5067-4f7a-80a6-ba551eaccf29)
+
+
 &nbsp;&nbsp;&nbsp;
 
 
