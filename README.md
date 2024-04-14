@@ -23,7 +23,6 @@
 </details>
 
 <!-- spotify -->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31dmrjhwz5ayzkgpeozkc4j3x2ju&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=2dc328&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasmartinns_7/)
