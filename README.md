@@ -33,9 +33,6 @@
 <!-- Portfolio -->
 
 <!-- GIF -->
-<p align="left">
-  <img align="center" src="" alt="Imagem">
-</p>
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
