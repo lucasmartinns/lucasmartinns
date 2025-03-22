@@ -1,8 +1,11 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=30&center=true&vCenter=true&width=1000&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Lucas+Martins;Atualmente+cursando+Desenvolvimento+de+Sistemas;Sou+desenvolvedor+focado+em+Flutter+e+Node.js;Seja+bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=30&center=true&vCenter=true&width=1000&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Lucas+Martins;Estou+cursando+Desenvolvimento+de+Sistemas;Sou+desenvolvedor+focado+em+Flutter+e+Node.js;Seja+bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lucasmartinns&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucasmartinns&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Martins GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-activity-graph.vercel.app/graph?username=lucasmartinns&theme=react-dark" />
+</div>
 
 ### 🚀 Tecnologias que utilizo:
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -17,11 +20,4 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucasmartinns&show_icons=true&count_private=true&hide_border=true&title_color=87CEFA&icon_color=87CEFA&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Martins GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmartinns&layout=compact&hide_border=true&title_color=87CEFA&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
-![Snake animation align="center"](https://github.com/lucasmartinns/lucasmartinns/blob/output/github-contribution-grid-snake.svg)
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
