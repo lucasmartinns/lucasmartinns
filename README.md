@@ -7,6 +7,9 @@
   <img width="49%" height="195px" src="https://github-readme-activity-graph.vercel.app/graph?username=lucasmartinns&theme=react-dark" />
 </div>
 
+### 📊 Most Used Languages:
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmartinns&layout=compact&hide_border=true&title_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" />
+
 ### 🚀 Tecnologias que utilizo:
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -19,5 +22,8 @@
 ### 🔧 Ferramentas:
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+### 📈 GitHub Contributions:
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lucasmartinns&theme=react-dark" />
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
