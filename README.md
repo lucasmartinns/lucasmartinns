@@ -3,11 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=30&center=true&vCenter=true&width=1000&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Lucas+Martins;Estou+cursando+Desenvolvimento+de+Sistemas;Seja+bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
 <div align="center">  
-<img width="49%" height="195px" src="https://github-readme-stats-byge58khw-lucas-martins-projects-96489964.vercel.app/api?username=lucasmartinns&count_private=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Martins GitHub Stats" /> 
+<img width="49%" height="195px" src="https://github-readme-stats-hazel-ten-78.vercel.app/api?username=lucasmartinns&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Martins GitHub Stats" /> 
 
-<img width="49%" height="195px" src="https://github-readme-stats-byge58khw-lucas-martins-projects-96489964.vercel.app/api/top-langs/?username=lucasmartinns&layout=compact&hide_border=true&title_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" />
-
+<img width="49%" height="195px" src="https://github-readme-stats-hazel-ten-78.vercel.app/api/top-langs/?username=lucasmartinns&layout=compact&hide_border=true&title_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" />
 </div>
+
 
 ### 🚀 Tecnologias que utilizo:
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
